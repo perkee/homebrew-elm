@@ -35,7 +35,7 @@ y =
 
 ## Install
 
-### Homebrew (macOS Apple Silicon)
+### Homebrew (macOS Apple Silicon / Linux x86_64)
 
 ```sh
 brew install perkee/elm/elm-format
@@ -64,3 +64,8 @@ Or add to a flake input:
 ### Manual download
 
 Download a prebuilt binary from the [releases page](https://github.com/perkee/elm-format/releases).
+
+Available platforms:
+- macOS arm64 (Apple Silicon)
+- Linux x86_64
+- Windows x86_64
